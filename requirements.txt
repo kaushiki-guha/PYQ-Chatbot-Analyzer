@@ -1,0 +1,9 @@
+gradio
+pdfplumber
+pillow
+pandas
+matplotlib
+easyocr
+google-genai
+python-dotenv
+scikit-learn
